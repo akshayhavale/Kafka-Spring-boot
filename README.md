@@ -1,7 +1,5 @@
 # Kafka-Spring-boot
 
-
-
 Kafka Docker Setup with Single Node Cluster and Also Multi node Cluster
 https://www.baeldung.com/ops/kafka-docker-setup
 
@@ -17,4 +15,14 @@ https://github.com/TechPrimers/spring-boot-kafka-consumer-example
 
 Bug Solved
 https://stackoverflow.com/questions/51688924/spring-kafka-the-class-is-not-in-the-trusted-packages
+
+http://www.beyondthelines.net/computing/kafka-patterns/
+
+https://newrelic.com/blog/best-practices/effective-strategies-kafka-topic-partitioning
+
+tutorial
+
+https://www.tutorialkart.com/apache-kafka-tutorial/
+
+https://kafka.apache.org/documentation/
 
